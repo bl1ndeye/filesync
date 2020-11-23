@@ -1,6 +1,6 @@
 # filesync
 **File synchronizer software**
-<br>Had some function of torrent client, such as: 
+<br>Had some functions like default torrent client application, such as: 
 <br>
 -Creating torrent files.
 <br>
